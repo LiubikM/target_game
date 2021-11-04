@@ -16,7 +16,6 @@ def generate_grid() -> List[List[str]]:
         if len(timed_list) == 3:
             list_of_game_letters.append(timed_list)
             timed_list = []
-    for i in range(1.5):
     return list_of_game_letters
 
 
