@@ -72,7 +72,7 @@ def get_pure_user_words(user_words: List[str], letters: List[str], words_from_di
     (list, list, list) -> list
 
     Checks user words with the rules and returns list of those words
-    that are not in dictionary.
+    that are not in dictionary. I love GitHub!
     """
     unknown_words = []
     for wordd in user_words:
